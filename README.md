@@ -34,10 +34,7 @@ Algorithms_Commons->src->main->java->com->github->pedrovgs-> Now, Run ASTParse.j
 ## What are the limitations of your implementation. ##
 I have build the project using Gradle. I should also build it using SBT.
 
-## Configuration
-#### Java 1.8.0_144 #### 
-#### Scala 2.12.3 (Java HotSpot(TM) 64-Bit Server VM) ####
-#### IntelliJ Idea 2017.2.3 #### 
+
 
 ## Dependencies:##
 #### group: 'junit', name: 'junit', version:'4.12'####
@@ -54,5 +51,5 @@ I have build the project using Gradle. I should also build it using SBT.
 Mark Grechanik
 
 ### Teaching Assistant ###
-Sri Phani Mohana Tejaswi Gorti# README #
+Sri Phani Mohana Tejaswi Gorti
 
