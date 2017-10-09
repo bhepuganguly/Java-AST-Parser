@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FileParse.iml" filepath="$PROJECT_DIR$/FileParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_common.iml" filepath="$PROJECT_DIR$/Algorithm_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Algorithm_common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Algorithm_common_main.iml" group="Algorithm_common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Algorithm_common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Algorithm_common_test.iml" group="Algorithm_common" />
     </modules>
   </component>
 </project>
