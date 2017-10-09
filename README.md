@@ -16,7 +16,7 @@ The instrumentation program gives the output that containis line number, stateme
 The repository contains the project files of HW1 plus the files that I created for doing HW2.
 The files are as follows:
 ASTParse - Creates Parse tree 
-TraverseManager - contains methods for traversing through nodes by Visitor pattern for computing scopes and then for instrumenting the program.   ####
+TraverseManager - contains methods for traversing through nodes by Visitor pattern for computing scopes and then for instrumenting the program.
 Template - contains the static instrum method which will be called for printing the logging values/instrumented statements.
 Test- On which I worked for instrumentation
 
@@ -29,7 +29,7 @@ Follow this path in the directory:
 Algorithms_Commons->src->main->java->com->github->pedrovgs-> Now, Run ASTParse.java to perform the following operatins:
 ### To construct the Abstract Syntax Tree ###
 ### To compute scopes###
-### To instrument the input program###
+### To instrument the input program ###
 
 ## What are the limitations of your implementation. ##
 I have build the project using Gradle. I should also build it using SBT.
